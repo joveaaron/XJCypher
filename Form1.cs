@@ -2,7 +2,7 @@ using System;
 using System.Security.Authentication;
 using System.Text.RegularExpressions;
 
-namespace WinFormsApp2
+namespace XJCypher
 {
     public partial class Form1 : Form
     {

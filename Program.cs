@@ -1,4 +1,4 @@
-namespace WinFormsApp2
+namespace XJCypher
 {
     internal static class Program
     {
